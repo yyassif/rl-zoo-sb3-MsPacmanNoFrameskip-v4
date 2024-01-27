@@ -4,7 +4,7 @@ The RL Zoo is a training framework for Stable Baselines3 reinforcement learning 
 
 ### Here is a Recorded Video of the Trained Agent On PPO Algorithm
 
-![](preview/replay.mp4)
+![Output](https://github.com/yyassif/rl-zoo-sb3-MsPacmanNoFrameskip-v4/blob/main/preview/replay.gif)
 
 ### Installation
 
