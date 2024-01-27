@@ -1,0 +1,4 @@
+git+https://github.com/DLR-RM/rl-baselines3-zoo@update/hf
+gymnasium[atari]
+gymnasium[accept-rom-license]
+pyvirtualdisplay

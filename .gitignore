@@ -1,0 +1,16 @@
+# Ignore the logs of each algorithm and checkpoints
+/logs/a2c/*
+/logs/ppo/*
+/logs/dqn/*
+/logs/qrdqn/*
+
+# Keep the the folder of each algorithm
+!/logs/a2c/.gitkeep
+!/logs/ppo/.gitkeep
+!/logs/dqn/.gitkeep
+!/logs/qrdqn/.gitkeep
+
+# Ignore the .env folder
+.env
+
+archived
